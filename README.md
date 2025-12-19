@@ -30,16 +30,6 @@ It’s ideal for writers, language learners, crossword fans, or anyone who enjoy
 - CSS for styling
 - Small amount of miscellaneous tooling and assets
 
-(If this project uses a specific framework — React, Svelte, Next.js, Vite, etc. — list it here.)
-
----
-
-## Demo screenshots
-(Replace these with actual screenshots or a GIF)
-- Random entry view
-- Language selection (if implemented)
-- Mobile view
-
 ---
 
 ## Quick start — run locally
